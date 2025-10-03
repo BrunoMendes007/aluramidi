@@ -1,0 +1,17 @@
+:root{
+    --cinza: #aaa;
+    --vermelho: #e93d50;
+    --vermelho-escuro: #af303f;
+    --branco: #fff;
+    --luz: rgb(229, 255, 0);
+}
+
+body{
+    align-items: center;
+    background:linear-gradient(45deg, #a7cfdf 0%, #23538a 100%);
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    font-family: 'Montserrat', sans-serif;
+    min-height:100vh;
+}
